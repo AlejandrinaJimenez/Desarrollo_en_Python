@@ -1,5 +1,5 @@
-number = 9
-print(type(number)) # imprime el tipo de variable "number"
+helado = "ice cream"
+print ("cream" in helado)
 
-float_number = 9.0
-print(type(float_number))
+contains = "ice" in helado
+print(contains)
